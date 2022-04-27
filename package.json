@@ -9,14 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@pankod/refine-antd": "^3.16.2",
+    "@pankod/refine-core": "^3.16.2",
+    "@pankod/refine-nextjs-router": "^3.16.2",
+    "@pankod/refine-simple-rest": "^3.16.2",
     "next": "12.1.5",
-    "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
     "@types/node": "17.0.27",
-    "@types/react": "18.0.7",
-    "@types/react-dom": "18.0.0",
+    "@types/react": "^17.0.44",
+    "@types/react-dom": "^17.0.16",
     "eslint": "8.14.0",
     "eslint-config-next": "12.1.5",
     "typescript": "4.6.3"
